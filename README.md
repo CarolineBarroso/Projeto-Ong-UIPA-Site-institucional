@@ -130,7 +130,13 @@ Entre os principais aprendizados estão:
 Nesta seção devem ser informadas as fontes realmente utilizadas pelo grupo durante a elaboração do projeto.
 
 * Informações sobre a UIPA: [https://www.atados.com.br/ong/uipa?gad_source=1&gad_campaignid=24380175991&gbraid=0AAAAADnq5yXsEJoYVPhNu7zxSJ78YsQ7b&gclid=EAIaIQobChMI-KOq5uvulwMV3ElIAB0bdAySEAAYASAAEgJK6fD_BwE].
-* Imagens utilizadas: [Inserir os links ou identificar a origem das imagens].
+* Imagens utilizadas:
+* imagem 1 [ https://images.unsplash.com/photo-1548199973-03cce0bbc87b?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D].
+* imagem 2 [https://www.sementeeducacao.com.br/blog/dia-internacional-da-caridade-como-os-atos-de-solidariedade-podem-ajudar-a-saude-mental]
+* imagem 3 [https://unsplash.com/pt-br/fotografias/filhote-de-cachorro-marrom-e-branco-de-pelagem-curta-sentado-no-chao-brFsZ7qszSY]
+* imagem 4 [https://economia.uol.com.br/todos-a-bordo/2022/11/29/azul-aviao-voo-servico-de-bordo-cao-animais-pets-cachorro-gato-viagem.htm]
+* imagem 5 [https://unsplash.com/pt-br/s/fotografias/gato-papel-de-parede]
+
 * Outros materiais de referência: [Front-End - Parte I.pdf] [Apostila_JavaScript_Revisada.pdf]
 
 ## Considerações finais
