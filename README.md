@@ -9,8 +9,8 @@
 
 ## Sobre o projeto
 
-Este projeto consiste no desenvolvimento de um site institucional com o tema da UIPA – União Internacional Protetora dos Animais. O objetivo é apresentar informações sobre a causa animal, destacar a importância da proteção e do cuidado com os animais e disponibilizar uma página de contato para os visitantes.
-O site foi desenvolvido como atividade acadêmica, com o propósito de aplicar conhecimentos básicos de desenvolvimento web utilizando HTML, CSS e JavaScript.
+Este projeto consiste no desenvolvimento de um site institucional com o tema da UIPA — União Internacional Protetora dos Animais. O objetivo é apresentar informações sobre a causa animal, destacar a importância da proteção e do cuidado com os animais e disponibilizar uma página de contato para os visitantes.
+O site foi desenvolvido como atividade acadêmica, com o propósito de aplicar conhecimentos básicos de desenvolvimento front-end utilizando HTML, CSS e JavaScript.
 
 > Importante: Este site é um protótipo acadêmico e não representa o site oficial da UIPA.
 
@@ -29,7 +29,7 @@ O site foi desenvolvido como atividade acadêmica, com o propósito de aplicar c
 * CSS3: estilização, cores, espaçamentos e responsividade.
 * JavaScript: implementação de interações e validações.
 
-## Descrição dos arquivos
+## Estrutura de páginas
 - [index.html]	Página inicial 
 - [sobre.html]	Informações sobre a instituição e a causa animal. 
 - [projetos.html]	Exemplos de iniciativas de proteção animal.
@@ -65,7 +65,7 @@ Disponibiliza um formulário com os campos:
 * Assunto.
 * Mensagem.
 
-Após o preenchimento, o JavaScript realiza verificações e apresenta uma mensagem de confirmação.
+Após o preenchimento, o JavaScript realiza  duas verificações e apresenta uma mensagem de confirmação.
 
 Observação: O formulário é demonstrativo, não envia mensagens para a instituição e não armazena os dados preenchidos.
 
@@ -80,9 +80,26 @@ Observação: O formulário é demonstrativo, não envia mensagens para a instit
 * Mensagem de confirmação.
 * Layout responsivo.
 
-## Responsividade
+O projeto possui duas funcionalidades desenvolvidas com JavaScript.
 
-O projeto utiliza recursos do CSS para adaptar a apresentação do conteúdo a diferentes dispositivos, como computadores, tablets e celulares. Foi utilizado o recurso @media para modificar determinados estilos conforme a largura da tela.
+1. Interação na página inicial
+
+Na página inicial, foi implementada uma interação que permite ao visitante mostrar ou ocultar informações por meio de um botão. Ao clicar no botão, o JavaScript executa uma função que modifica o conteúdo visível da página, proporcionando uma interação com o usuário.
+
+2. Validação do formulário de contato
+
+Na página de contato, o JavaScript realiza a validação dos campos preenchidos pelo visitante. São verificadas as seguintes informações:
+
+* Nome: deve possuir pelo menos 3 caracteres.
+* E-mail: deve ser preenchido e apresentar um formato básico válido.
+* Assunto: não pode ficar vazio.
+* Mensagem: deve possuir pelo menos 10 caracteres.
+
+Caso algum campo esteja incorreto, o site apresenta uma mensagem de erro orientando o visitante.
+
+## Responsividade
+O site foi desenvolvido para se adaptar a diferentes dispositivos, como computadores, tablets e celulares. Para isso, foram utilizados recursos do CSS, incluindo a regra @media, que permite modificar a apresentação dos elementos conforme a largura da tela.
+O objetivo é proporcionar uma navegação organizada e uma boa experiência ao usuário em diferentes tamanhos de dispositivos.
 
 ## Como executar o projeto
 
@@ -107,6 +124,14 @@ Entre os principais aprendizados estão:
 * Manipulação de elementos da página.
 * Criação e validação de formulários.
 * Organização de arquivos e pastas.
+
+## Fontes e créditos
+
+Nesta seção devem ser informadas as fontes realmente utilizadas pelo grupo durante a elaboração do projeto.
+
+* Informações sobre a UIPA: [https://www.atados.com.br/ong/uipa?gad_source=1&gad_campaignid=24380175991&gbraid=0AAAAADnq5yXsEJoYVPhNu7zxSJ78YsQ7b&gclid=EAIaIQobChMI-KOq5uvulwMV3ElIAB0bdAySEAAYASAAEgJK6fD_BwE].
+* Imagens utilizadas: [Inserir os links ou identificar a origem das imagens].
+* Outros materiais de referência: [Front-End - Parte I.pdf] [Apostila_JavaScript_Revisada.pdf]
 
 ## Considerações finais
 
